@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-08-21T16:40:05.094Z",
-  "updatedAtMs": 1787330405094,
+  "updatedAt": "2026-08-21T16:40:12.495Z",
+  "updatedAtMs": 1787330412495,
   "deviceId": "device_1787238619504_m5w6glhti",
   "provider": "github",
   "domains": [
@@ -10,7 +10,7 @@
     "conversations"
   ],
   "lastUploadedDomains": [
-    "conversations"
+    "settings"
   ],
   "domainStates": {
     "records": {
@@ -19,13 +19,13 @@
       "deviceId": "device_1787330022900_igjds797o"
     },
     "settings": {
-      "updatedAtMs": 1787330137763,
-      "updatedAt": "2026-08-21T16:35:37.763Z",
-      "deviceId": "device_1787330022900_igjds797o"
+      "updatedAt": "2026-08-21T16:40:12.495Z",
+      "updatedAtMs": 1787330412495,
+      "deviceId": "device_1787238619504_m5w6glhti"
     },
     "conversations": {
-      "updatedAt": "2026-08-21T16:40:05.094Z",
       "updatedAtMs": 1787330405094,
+      "updatedAt": "2026-08-21T16:40:05.094Z",
       "deviceId": "device_1787238619504_m5w6glhti"
     }
   },
